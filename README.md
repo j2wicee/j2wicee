@@ -18,10 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=j2wicee&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=j2wicee&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔹 [Fitted - iOS App](https://github.com/j2wicee/re-watch)
+- 🔹 [Re:Watch - Full Stack Web App](https://github.com/j2wicee/Fitted)
