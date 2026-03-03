@@ -20,5 +20,5 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [Fitted - iOS App](https://github.com/j2wicee/re-watch)
-- 🔹 [Re:Watch - Full Stack Web App](https://github.com/j2wicee/Fitted)
+- 🔹 [Fitted - iOS App](https://github.com/j2wicee/fitted)
+- 🔹 [Re:Watch - Full Stack Web App](https://github.com/j2wicee/re-watch)
